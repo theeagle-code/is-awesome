@@ -1,5 +1,5 @@
 # Welcome to the Eagle code is awesome repository!
-The Eagle code is awesome helps you find some solution(s) which are likely not to be found on the internet.
+The Eagle code is awesome helps you find some solution(s) which are likely not to be found on the internet. And if they do? Well you still came to this place and hopefully it will help you finding the right solution!
 
 What is this repository about:
 - ARM
